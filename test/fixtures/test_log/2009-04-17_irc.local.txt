@@ -1,0 +1,9 @@
+01:00 *hoge has joined (n=hoge@000.111.222.333.xx.com)
+02:00 *fuga has joined (i=proxyuse@111.222.333.444.yy.com)
+02:37 bob: bobです
+02:43 mary: maryです
+02:44 mary: mary2回目
+02:44 bob: bob2回目
+02:50 mary: mary3回目
+03:00 bob: bob3回目
+03:01 bob: bob4回目
