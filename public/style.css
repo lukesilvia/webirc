@@ -24,3 +24,7 @@ ul#statuses {
     padding: 20px;
     font-size: 75%;
 }
+
+li.status {
+    padding: 1px 0;
+}

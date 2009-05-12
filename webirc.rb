@@ -16,8 +16,8 @@ end
 
 get '/search' do
   @statuses = 
-    if (q = params[:q]) && !q.empty?
-      words = q.gsub(/　/, ' ').strip.split(/\s+/)
+    if (@q = params[:q]) && !@q.empty?
+      words = @q.gsub(/　/, ' ').strip.split(/\s+/)
       log.search(words)
     else
       log.recent
