@@ -28,3 +28,7 @@ ul#statuses {
 li.status {
     padding: 1px 0;
 }
+
+strong.highlight {
+    color: #ff0000;
+}
